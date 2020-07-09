@@ -1111,6 +1111,48 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 H1 {
   color: #232323;
 }
+.cid-s3MEbTMTBe {
+  background-image: url("../../../assets/images/capa-mobirise-1920x1496.jpg");
+}
+.cid-s3MEbTMTBe .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-s3MEbTMTBe .media-container-column {
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-s3MEbTMTBe .media-container-column {
+    padding: 1rem !important;
+  }
+}
+.cid-s3UfKezCr0 {
+  background-image: url("../../../assets/images/capa-mobirise-1920x1280.jpg");
+}
+.cid-s3UfKezCr0 .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-s3UfKezCr0 .media-container-column {
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-s3UfKezCr0 .media-container-column {
+    padding: 1rem !important;
+  }
+}
+.cid-s3UmvPQmWv {
+  background-image: url("../../../assets/images/capa-mobirise1-1920x1280.jpg");
+}
+.cid-s3UmvPQmWv .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-s3UmvPQmWv .media-container-column {
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-s3UmvPQmWv .media-container-column {
+    padding: 1rem !important;
+  }
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1176,47 +1218,5 @@ section.lazy-placeholder:after {
   .cid-qTkAaeaxX5 .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
-  }
-}
-.cid-s3MEbTMTBe {
-  background-image: url("../../../assets/images/capa-mobirise-1920x1496.jpg");
-}
-.cid-s3MEbTMTBe .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
-.cid-s3MEbTMTBe .media-container-column {
-  background-color: #232323;
-}
-@media (max-width: 767px) {
-  .cid-s3MEbTMTBe .media-container-column {
-    padding: 1rem !important;
-  }
-}
-.cid-s3UfKezCr0 {
-  background-image: url("../../../assets/images/capa-mobirise-1920x1280.jpg");
-}
-.cid-s3UfKezCr0 .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
-.cid-s3UfKezCr0 .media-container-column {
-  background-color: #232323;
-}
-@media (max-width: 767px) {
-  .cid-s3UfKezCr0 .media-container-column {
-    padding: 1rem !important;
-  }
-}
-.cid-s3UmvPQmWv {
-  background-image: url("../../../assets/images/capa-mobirise1-1920x1280.jpg");
-}
-.cid-s3UmvPQmWv .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
-.cid-s3UmvPQmWv .media-container-column {
-  background-color: #232323;
-}
-@media (max-width: 767px) {
-  .cid-s3UmvPQmWv .media-container-column {
-    padding: 1rem !important;
   }
 }
