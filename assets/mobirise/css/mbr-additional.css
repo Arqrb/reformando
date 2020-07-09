@@ -1165,6 +1165,20 @@ section.lazy-placeholder:after {
     padding: 1rem !important;
   }
 }
+.cid-s4gUVN9Mut {
+  background-image: url("../../../assets/images/paint-849346-1920-1920x1275.jpg");
+}
+.cid-s4gUVN9Mut .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-s4gUVN9Mut .media-container-column {
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-s4gUVN9Mut .media-container-column {
+    padding: 1rem !important;
+  }
+}
 .cid-s3UfKezCr0 {
   background-image: url("../../../assets/images/capa-mobirise-1920x1280.jpg");
 }
@@ -1361,4 +1375,18 @@ section.lazy-placeholder:after {
 .cid-s4fPQ5gdei .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-s4gUV9TJIP {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-s4gUV9TJIP .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-s4gUV9TJIP .media-container-column {
+  background-color: #4f4943;
+}
+@media (max-width: 767px) {
+  .cid-s4gUV9TJIP .media-container-column {
+    padding: 1rem !important;
+  }
 }
