@@ -1241,6 +1241,20 @@ section.lazy-placeholder:after {
 .cid-s3UfKezCr0 H3 {
   color: #ff3366;
 }
+.cid-s4xoKoc1mG {
+  background-image: url("../../../assets/images/money-2724235-1920-1920x1064.jpeg");
+}
+.cid-s4xoKoc1mG .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-s4xoKoc1mG .media-container-column {
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-s4xoKoc1mG .media-container-column {
+    padding: 1rem !important;
+  }
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
